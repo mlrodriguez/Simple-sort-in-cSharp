@@ -1,0 +1,4 @@
+C:\Users\Marcio\Desktop\SimpleSort\SimpleSort\bin\Debug\SimpleSort.exe
+C:\Users\Marcio\Desktop\SimpleSort\SimpleSort\bin\Debug\SimpleSort.pdb
+C:\Users\Marcio\Desktop\SimpleSort\SimpleSort\obj\x86\Debug\SimpleSort.exe
+C:\Users\Marcio\Desktop\SimpleSort\SimpleSort\obj\x86\Debug\SimpleSort.pdb
