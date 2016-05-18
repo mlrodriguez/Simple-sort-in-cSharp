@@ -2,3 +2,8 @@ C:\Users\Marcio\Desktop\SimpleSort\SimpleSort\bin\Debug\SimpleSort.exe
 C:\Users\Marcio\Desktop\SimpleSort\SimpleSort\bin\Debug\SimpleSort.pdb
 C:\Users\Marcio\Desktop\SimpleSort\SimpleSort\obj\x86\Debug\SimpleSort.exe
 C:\Users\Marcio\Desktop\SimpleSort\SimpleSort\obj\x86\Debug\SimpleSort.pdb
+C:\Marcio\simpleSort\Simple-sort-in-cSharp\SimpleSort\obj\x86\Debug\SimpleSort.exe
+C:\Marcio\simpleSort\Simple-sort-in-cSharp\SimpleSort\obj\x86\Debug\SimpleSort.pdb
+C:\Marcio\simpleSort\Simple-sort-in-cSharp\SimpleSort\bin\Debug\SimpleSort.exe
+C:\Marcio\simpleSort\Simple-sort-in-cSharp\SimpleSort\bin\Debug\SimpleSort.pdb
+C:\Marcio\simpleSort\Simple-sort-in-cSharp\SimpleSort\obj\x86\Debug\SimpleSort.csprojResolveAssemblyReference.cache
