@@ -1,5 +1,0 @@
-C:\Marcio\simpleSort\Simple-sort-in-cSharp\SimpleSort\bin\Debug\SimpleSort.exe
-C:\Marcio\simpleSort\Simple-sort-in-cSharp\SimpleSort\bin\Debug\SimpleSort.pdb
-C:\Marcio\simpleSort\Simple-sort-in-cSharp\SimpleSort\obj\Debug\SimpleSort.csprojResolveAssemblyReference.cache
-C:\Marcio\simpleSort\Simple-sort-in-cSharp\SimpleSort\obj\Debug\SimpleSort.exe
-C:\Marcio\simpleSort\Simple-sort-in-cSharp\SimpleSort\obj\Debug\SimpleSort.pdb
