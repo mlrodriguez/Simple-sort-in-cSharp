@@ -1,0 +1,7 @@
+C:\Marcio\simpleSort\Simple-sort-in-cSharp\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Marcio\simpleSort\Simple-sort-in-cSharp\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Marcio\simpleSort\Simple-sort-in-cSharp\UnitTestProject1\bin\Debug\SimpleSort.exe
+C:\Marcio\simpleSort\Simple-sort-in-cSharp\UnitTestProject1\bin\Debug\SimpleSort.pdb
+C:\Marcio\simpleSort\Simple-sort-in-cSharp\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Marcio\simpleSort\Simple-sort-in-cSharp\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Marcio\simpleSort\Simple-sort-in-cSharp\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
