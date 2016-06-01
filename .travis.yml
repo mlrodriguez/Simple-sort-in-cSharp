@@ -1,2 +1,2 @@
 script: echo Hola Build
-        ls
+script: ls
