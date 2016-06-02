@@ -1,4 +1,3 @@
-script: 
-  -echo Hola Build
-  -ls
-  -exit 1
+script: echo Hola Build
+script: ls
+script: exit 0
